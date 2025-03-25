@@ -15,7 +15,7 @@ Mismatch in room allocation, resulting in underutilization of ideal rooms.
 Increased servicing costs affect operational efficiency.
 
 
-# Eda:-
+# Eda
 
 What is the cancellation rate? Cancelled Rate
 Which hotel has a high cancellation rate?
