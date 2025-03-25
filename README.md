@@ -1,24 +1,21 @@
 # Hotel-Booking-Data-Analysis-Project
 
 
-#Introduction
+# Introduction
 
 This report analyses hotel booking data using various graphs to identify key factors affecting business performance. The focus areas include high cancellation rates, revenue impact, room allocation, and servicing costs.
 
-#Problem Statement
+# Problem Statement
 
 The hotel is facing challenges in four key areas:
 
 High cancellation rates, leading to revenue loss.
-
 Lower revenue generation is impacting overall profitability.
-
 Mismatch in room allocation, resulting in underutilization of ideal rooms.
-
 Increased servicing costs affect operational efficiency.
 
 
-#Eda:-
+# Eda:-
 
 What is the cancellation rate? Cancelled Rate
 Which hotel has a high cancellation rate?
